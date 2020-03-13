@@ -144,4 +144,4 @@ options:
   mute: False
 
 # send hit to anonymously evaluate the global usage of Kalliope app by users
-send_anonymous_usage_stats: True
+send_anonymous_usage_stats: False
